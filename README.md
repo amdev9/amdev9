@@ -1,5 +1,6 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdev9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=amdev9&color=green)
 <!--
 **amdev9/amdev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
