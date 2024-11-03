@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=amdev9&color=green)
+
 <!--
 **amdev9/amdev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
